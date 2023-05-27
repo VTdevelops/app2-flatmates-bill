@@ -4,8 +4,8 @@ This is a command line interface (CLI) application that takes as input from the 
 
 * the bill amount 
 * the bill period
-* the name of the first flatmate and the days that stayed in the house for the bill period
-* the name of the second flatmate and the days that stayed in the house for the bill period
+* the name of the first flatmate and the days that stayed in the house for that bill period
+* the name of the second flatmate and the days that stayed in the house for that bill period
 
 and calculates how much each flatmate has to pay
 
